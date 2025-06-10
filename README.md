@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -18,5 +19,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
