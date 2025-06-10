@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -21,4 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
