@@ -37,5 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
-
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
