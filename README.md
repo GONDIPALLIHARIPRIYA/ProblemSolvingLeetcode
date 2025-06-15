@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
