@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
