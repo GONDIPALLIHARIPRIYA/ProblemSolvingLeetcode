@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/2050-count-good-numbers) |
