@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/GONDIPALLIHARIPRIYA/ProblemSolvingLeetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
